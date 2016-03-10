@@ -1,7 +1,7 @@
 name: musiek audio
 favicon: null
 layout_spectrum: 1
-typography_spectrum: 0.39720223541371524
+typography_spectrum: 0.30338
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-  brandStrength: 0.1393508177716285
+  brandStrength: 0.1875
   lightness: 0.3301823972724378
   saturation: 0.2293728794902563
   rhythmicContrast: 0.37222257093526423
