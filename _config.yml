@@ -2,6 +2,7 @@ name: musiek audio
 favicon: null
 layout_spectrum: 0.74251
 typography_spectrum: 0.61278
+title: REEL
 cta:
   domain: null
   bucket: null
