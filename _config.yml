@@ -1,6 +1,6 @@
 name: musiek audio
 favicon: null
-layout_spectrum: 0.499
+layout_spectrum: 1
 typography_spectrum: 0.61278
 title: MUSIEK REEL
 cta:
@@ -22,8 +22,8 @@ color:
     - '#474548'
     - '#c6c6c6'
     - '#a3a3a3'
-  brandStrength: 0.5
-  lightness: 0.5
+  brandStrength: 0.6875
+  lightness: 0
   saturation: 1
   rhythmicContrast: 0
 purpose: []
