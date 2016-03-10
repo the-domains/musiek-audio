@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[musiek audio]]></title>
         <description><![CDATA[musiek audio]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/musiek-audio/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 10 Mar 2016 17:21:07 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 10 Mar 2016 17:21:21 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/musiek-audio/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0a2bf8c3-4367-41a4-8922-516d2f03dc10.jpg">]]></description>
-            <link>undefinedsomos-musiek-somos-musicos/index.html</link>
+            <link>https://thegrid.ai/musiek-audio/somos-musiek-somos-musicos/index.html</link>
             <guid isPermaLink="false">4e632c8c-1e1f-4f50-b9b0-67fd7da90399</guid>
-            <pubDate>Thu, 10 Mar 2016 17:20:12 GMT</pubDate>
+            <pubDate>Thu, 10 Mar 2016 17:20:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
