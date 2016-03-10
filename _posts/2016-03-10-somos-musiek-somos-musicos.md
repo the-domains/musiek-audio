@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: Somos Musiek. Somos músicos.
-datePublished: '2016-03-10T17:20:12.811Z'
-dateModified: '2016-03-10T17:19:46.764Z'
+datePublished: '2016-03-10T17:20:36.872Z'
+dateModified: '2016-03-10T17:20:20.535Z'
 title: ''
 author: []
+sourcePath: _posts/2016-03-10-somos-musiek-somos-musicos.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-10-somos-musiek-somos-musicos.md
-published: true
 url: somos-musiek-somos-musicos/index.html
 _type: Article
 
