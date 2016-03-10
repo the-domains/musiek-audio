@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "This is \"IUSACELL VIÃ'ETAS\" by musiekaudio on Vimeo, the home for high quality videos and the people who love them."
-datePublished: '2016-03-10T17:32:50.680Z'
-dateModified: '2016-03-10T17:32:46.283Z'
+datePublished: '2016-03-10T17:46:28.900Z'
+dateModified: '2016-03-10T17:32:58.555Z'
 author:
   - name: Musiek Audio
     url: 'http://vimeo.com/musiekaudio'
@@ -42,14 +42,14 @@ app_links:
     name: Vimeo
     id: com.vimeo.android.videoapp
 title: "IUSACELL VIÃ'ETAS"
+sourcePath: _posts/2016-03-10-iusacell-viaetas.md
+published: true
 authors: []
 publisher:
   name: Vimeo
   domain: vimeo.com
   url: 'https://vimeo.com/'
   favicon: 'https://f.vimeocdn.com/images_v6/favicon.ico'
-sourcePath: _posts/2016-03-10-iusacell-viaetas.md
-published: true
 _type: VideoObject
 _context: 'http://schema.org'
 
